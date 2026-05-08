@@ -1,6 +1,9 @@
 # VDChain Brand Assets
 
-## Colors
+Official brand assets for VDChain — Vistara Diamond Chain.
+
+## Brand Colors
+
 | Name | Hex |
 |------|-----|
 | Primary Navy | #0A1628 |
@@ -19,5 +22,4 @@
 - Min size: 32x32px
 - Do not distort or recolor
 
-Website: https://vdscan.io
-Company: https://uvpixel.com
+GitHub: https://github.com/Vistara-Diamond
